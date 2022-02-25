@@ -9,3 +9,5 @@ This repository contains a [notebook](https://github.com/jessedeans/Stock_Market
 I'll be working with a csv file containing index prices. Each row in the file contains a daily record of the price of the S&P 500 Index from 1950 to 2015. The dataset is stored in `sphist.csv`.
 
 I'll be using this dataset to develop the predictive model. I'll train the model with data from 1950-2012, and try to make predictions from 2013-2015.
+#TODO 022522 I've fixed the not installed error and need to find the reccomender
+# this as a predictor is nice but I need the analyszer
